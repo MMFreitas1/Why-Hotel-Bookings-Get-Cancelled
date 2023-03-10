@@ -14,7 +14,7 @@ Which general recommendations for the hotel can you make?"
 __Unquote__.
 
 
-❗️__Disclamer__: This project was uploaded on DataCamp in the Competitions tab, I am including the same in my profile's repositories for educational purposes,
+❗ __Disclamer__: This project was uploaded on DataCamp in the Competitions tab, I am including the same in my profile's repositories for educational purposes,
 as a way to show my approach to the problem.
 
 📔 __Dataset__: Data modified from https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset 
